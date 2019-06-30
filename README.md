@@ -13,6 +13,8 @@ Requirements:
 - nltk
 - Vader Corpus
 
+Running:
+------------- 
 
 The app uses a series of methods to perform different analysis and classification actions:
 
@@ -49,10 +51,16 @@ tickers = ['F','AMD','NVDA','MU','FB','AMZN']
 sentiment_companies = finsent.get_all_stocks(tickers)
 sentiment_companies
 ```
+Output:
 
-![](https://github.com/giuetr/finsent/tree/master/assets/sample.png)
+![](https://github.com/giuetr/finsent/blob/master/assets/sample.png)
 
+ ------------- 
 
-An easy-to-use starting point to implement different analysis routines including sentiment analysis, textual analysis and other parsing methods.
+License:
+-------------
 
-I.e.: the app can collect and store tweets based on a group of tickers ('#ADBE', '#NVDA', '#ORCL', ...).
+GNU General Public License v3.0
+
+Copyright © 2019 giuetr
+
