@@ -50,7 +50,7 @@ sentiment_companies = finsent.get_all_stocks(tickers)
 sentiment_companies
 ```
 
-![alt text](https://github.com/giuetr/finsent/master/assets/sample.png)
+![](https://github.com/giuetr/finsent/tree/master/assets/sample.png)
 
 
 An easy-to-use starting point to implement different analysis routines including sentiment analysis, textual analysis and other parsing methods.
