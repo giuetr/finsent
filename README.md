@@ -39,18 +39,18 @@ sentiment_df
 ```
 
 **3. get_all_stocks:**
-A method that returns the aggregated sentiment of a given company:
+A method that returns a DataFrame with sentiment polarity scores for a given array of tickers:
 
 ```bash
 #We define a list of tickers:
 tickers = ['F','AMD','NVDA','MU','FB','AMZN']
 
 #And call the method:
-sentiment_companies = finsent(ticker).get_all_stocks()
+sentiment_companies = finsent.get_all_stocks(tickers)
 sentiment_companies
 ```
 
-
+![alt text](http://url/to/img.png)
 
 
 
