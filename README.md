@@ -1,5 +1,5 @@
 # finsent
-Extract sentiment from financial news headlines of every US public company
+Extract sentiment from financial news headlines for every US public company
 
 ------------- 
 
