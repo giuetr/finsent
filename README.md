@@ -55,6 +55,8 @@ Output:
 
 ![](https://github.com/giuetr/finsent/blob/master/assets/sample.png)
 
+The script took circa 2 seconds to capture and classify the sentiment embedded in over 600 key news headlines for a set of 6 companies, providing a convenient and time-efficient solution for a highly time-consuming practice.
+
  ------------- 
 
 Enjoy!
